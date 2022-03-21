@@ -4,7 +4,7 @@ export function Button(){
     const [contador,setContador] = useState(0);
     
     function increment (){
-        setContador(contador + 1);
+        setContador(contador + 2);
         
     }
     return (
