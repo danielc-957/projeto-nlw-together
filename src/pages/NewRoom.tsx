@@ -20,7 +20,7 @@ export function NewRoom(){
                         <input type="text"
                         placeholder='Digite o código da sala' 
                         />
-                        <Button type='submit'>
+                        <Button type='submit'> 
                             Criar sala
                         </Button>
                     </form>
